@@ -1,0 +1,45 @@
+/* UserList.css */
+.user-list-container {
+    margin-top: 20px;
+}
+
+.user-list {
+    list-style: none;
+    padding: 0;
+}
+
+.user-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-item strong {
+    margin-right: 5px;
+}
+
+button {
+    background-color: #3498db; /* Odcień niebieski */
+    color: #fff;
+    padding: 8px 15px;
+    border: 1px solid transparent; /* Obramowanie przezroczyste */
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+}
+
+/* Efekt hover dla przycisków */
+button:hover {
+    background-color: #2980b9; /* Odcień niebieski po najechaniu kursorem */
+    border-color: #2980b9;
+}

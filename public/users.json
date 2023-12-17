@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "email": "alice.williams@example.com",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "name": "Eva Davis",
+    "email": "eva.davis@example.com",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "name": "Frank White",
+    "email": "frank.white@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 8,
+    "name": "Grace Miller",
+    "email": "grace.miller@example.com",
+    "role": "user"
+  },
+  {
+    "id": 9,
+    "name": "Harry Wilson",
+    "email": "harry.wilson@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 10,
+    "name": "Ivy Moore",
+    "email": "ivy.moore@example.com",
+    "role": "user"
+  },
+  {
+    "id": 11,
+    "name": "Jack Taylor",
+    "email": "jack.taylor@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 12,
+    "name": "Kelly Anderson",
+    "email": "kelly.anderson@example.com",
+    "role": "user"
+  },
+  {
+    "id": 13,
+    "name": "Leo Thomas",
+    "email": "leo.thomas@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 14,
+    "name": "Mia Harris",
+    "email": "mia.harris@example.com",
+    "role": "user"
+  },
+  {
+    "id": 15,
+    "name": "Nathan Clark",
+    "email": "nathan.clark@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 16,
+    "name": "Olivia Turner",
+    "email": "olivia.turner@example.com",
+    "role": "user"
+  },
+  {
+    "id": 17,
+    "name": "Paula Rodriguez",
+    "email": "paula.rodriguez@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 18,
+    "name": "Quentin Green",
+    "email": "quentin.green@example.com",
+    "role": "user"
+  },
+  {
+    "id": 19,
+    "name": "Rachel Scott",
+    "email": "rachel.scott@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 20,
+    "name": "Samuel Baker",
+    "email": "samuel.baker@example.com",
+    "role": "user"
+  }
+]
